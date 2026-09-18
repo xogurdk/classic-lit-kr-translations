@@ -12,14 +12,22 @@
 ## 폴더 구조
 
 ```text
-source/        # 원본 구텐베르크 텍스트 (.txt)
-chunks/        # 약 10,000자 단위로 분할된 원문
-translated/    # 청크별 번역·각색본 (trans_NNN.md)
-glossary.md    # 인명, 지명 등 고유명사 통일표
-CLAUDE.md      # 번역 스타일 및 작업 프로세스 규칙
+source/                        # 원본 구텐베르크 텍스트 (.txt)
+chunks/                        # 약 10,000자 단위로 분할된 원문
+translated/                    # 청크별 번역·각색본 (trans_NNN.md)
+glossary.md                    # 인명, 지명 등 고유명사 통일표
+CLAUDE.md                      # 번역 스타일 및 작업 프로세스 규칙
+<작품명>_완성본.md              # 작품별 완성 마크다운
+훈초정음- <작품명> 책화.hwpx    # 작품별 최종 한글(HWPX) 서식본 — 작품당 이 파일 하나만 정본
+archive/                       # 예전 초안·중복 버전, 참고용 원본 등 (정본이 아님)
 ```
 
 ## 완료된 작품
 
 - 크리스마스 캐롤 (A Christmas Carol, Charles Dickens) → [크리스마스_캐롤_완성본.md](크리스마스_캐롤_완성본.md)
 - 프랑켄슈타인 (Frankenstein, Mary Shelley) → [프랑켄슈타인_완성본.md](프랑켄슈타인_완성본.md)
+- 동물농장 (Animal Farm, George Orwell) → [동물농장_완성본.md](동물농장_완성본.md)
+- 동백꽃 (김유정) → [동백꽃_완성본.md](동백꽃_완성본.md)
+- 봄봄 (김유정) → [봄봄_완성본.md](봄봄_완성본.md)
+
+각 작품의 `훈초정음- <작품명> 책화.hwpx`가 배포용 최종 서식본입니다. 같은 작품의 예전 버전(시안, 구버전, 최종서식 v1 등)은 `archive/`에 보관되어 있습니다.
