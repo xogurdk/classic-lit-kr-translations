@@ -74,3 +74,56 @@ Evian → 에비앙 (빅터와 엘리자베스가 결혼 후 첫날밤을 묵은
 
 ## 고유 표현
 "It's alive!" 계열 창조 장면 → 문맥에 맞게 "생명이 깃들었다" 등으로 자연스럽게 번역, 인물 호칭은 위 표를 따라 통일
+
+---
+
+# 1984 용어집
+
+## 인물명
+Winston Smith → 윈스턴 스미스 (주인공)
+Julia → 줄리아 (윈스턴의 연인)
+O'Brien → 오브라이언 (내부당원, 실제로는 사상경찰)
+Emmanuel Goldstein → 에마뉴엘 골드스타인 (체제가 지목하는 반역자, "형제단"의 지도자로 알려짐)
+Big Brother → 빅 브라더 (당의 상징적 지도자, 실존 여부 불명)
+Mr. Charrington → 채링턴 씨 (골동품점 주인, 실제로는 사상경찰)
+Syme → 사임 (신어 사전 편찬자, 윈스턴의 동료)
+Parsons → 파슨스 (윈스턴의 이웃, 열성 당원)
+Mrs. Parsons → 파슨스 부인
+Ampleforth → 앰플포스 (시를 개작하는 윈스턴의 동료)
+Katharine → 캐서린 (윈스턴의 (별거 중인) 아내)
+Tillotson → 틸로트슨 (윈스턴의 사무실 동료)
+
+## 장소·기관명
+Oceania → 오세아니아
+Eurasia → 유라시아
+Eastasia → 이스트아시아
+Airstrip One → 에어스트립 원 (옛 영국)
+Ministry of Truth (Minitrue) → 진리부(미니트루)
+Ministry of Peace (Minipax) → 평화부(미니팩스)
+Ministry of Love (Miniluv) → 애정부(미니러브)
+Ministry of Plenty (Miniplenty) → 풍요부(미니플렌티)
+Victory Mansions → 승리맨션
+Victory Gin → 승리 진
+Victory Cigarettes → 승리 담배
+Chestnut Tree Café → 밤나무 카페
+Golden Country → 황금의 나라 (윈스턴이 꿈에서 보는 이상적 풍경)
+Room 101 → 101호실
+
+## 핵심 개념어 (신어 포함)
+Big Brother is Watching You → 빅 브라더가 당신을 지켜보고 있다
+Thought Police → 사상경찰
+thoughtcrime → 사상죄
+Newspeak → 신어
+Oldspeak → 구어
+doublethink → 이중사고
+Ingsoc → 영사(잉속)
+The Two Minutes Hate → 2분간 증오
+Hate Week → 증오 주간
+telescreen → 텔레스크린
+Junior Anti-Sex League → 청년 반성동맹
+Junior Spies → 소년 첩보대
+proles → 프롤 (무산 계급)
+The Brotherhood → 형제단
+memory hole → 기억통
+The Book (골드스타인의 책) → 『과두적 집단주의의 이론과 실체』
+War is Peace / Freedom is Slavery / Ignorance is Strength → 전쟁은 평화, 자유는 예속, 무지는 힘
